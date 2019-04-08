@@ -5,8 +5,8 @@ env:
     - PROJECT=Tempura.xcworkspace
   matrix:
     - SCHEME="Tempura"
-      SDK=iphonesimulator12.0
-      SIMULATOR="platform=iOS Simulator,OS=12.0,name=iPhone 8"
+      SDK=iphonesimulator12.2
+      SIMULATOR="platform=iOS Simulator,OS=12.2,name=iPhone 8"
 
 before_install:
   - pod repo update > /dev/null
