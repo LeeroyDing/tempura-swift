@@ -1,0 +1,6 @@
+framework module Pods_TempuraTesting {
+  umbrella header "Pods-TempuraTesting-umbrella.h"
+
+  export *
+  module * { export * }
+}
