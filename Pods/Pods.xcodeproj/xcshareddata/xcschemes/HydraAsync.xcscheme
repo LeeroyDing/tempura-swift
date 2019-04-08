@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0930"
+   LastUpgradeVersion = "1020"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "97032FC05C898241CB3F4674"
-               BuildableName = "TempuraTesting.framework"
-               BlueprintName = "TempuraTesting"
-               ReferencedContainer = "container:Tempura.xcodeproj">
+               BlueprintIdentifier = "700D76790FBE4A7CBFAC4A0F11C72981"
+               BuildableName = "Hydra.framework"
+               BlueprintName = "HydraAsync"
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,21 +45,30 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "97032FC05C898241CB3F4674"
-            BuildableName = "TempuraTesting.framework"
-            BlueprintName = "TempuraTesting"
-            ReferencedContainer = "container:Tempura.xcodeproj">
+            BlueprintIdentifier = "700D76790FBE4A7CBFAC4A0F11C72981"
+            BuildableName = "Hydra.framework"
+            BlueprintName = "HydraAsync"
+            ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
-      buildConfiguration = "Debug"
+      buildConfiguration = "Release"
       shouldUseLaunchSchemeArgsEnv = "YES"
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "700D76790FBE4A7CBFAC4A0F11C72981"
+            BuildableName = "Hydra.framework"
+            BlueprintName = "HydraAsync"
+            ReferencedContainer = "container:Pods.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
